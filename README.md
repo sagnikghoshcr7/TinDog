@@ -1,5 +1,6 @@
 # TinDog
 Tinder clone website for dogs.
+Click [here](https://sagnikghoshcr7.github.io/TinDog/.) to go to the website.
 
 ## Tools & Languages
 - HTML5
