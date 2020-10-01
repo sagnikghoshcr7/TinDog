@@ -1,6 +1,6 @@
-# TinDog
+# TinDog-Website
 Tinder clone website for dogs.
-Click [here](https://sagnikghoshcr7.github.io/TinDog/.) to go to the website.
+Click here (https://sagnikghoshcr7.github.io/TinDog/.) to go to the website.
 
 ## Tools & Languages
 - HTML5
@@ -13,7 +13,7 @@ Click [here](https://sagnikghoshcr7.github.io/TinDog/.) to go to the website.
 git clone https://github.com/sagnikghoshcr7/TinDog.git
 ```
 
-## Screenshots
+## Screenshots-tindog-website
 ![](https://github.com/sagnikghoshcr7/images/blob/master/TinDog%20screenshots/web.png)
 
 
